@@ -1,5 +1,5 @@
 # Memory_Game
-- The working memory game link here:- https://athreyapatel.github.io/memory_game/
+- The working memory game link here:-  https://athreyapatel.github.io/memory_game/
 - Part of Udacity ND Project
 
 ## Working of the game:
